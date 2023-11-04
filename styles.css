@@ -1,0 +1,31 @@
+body {
+ 
+}
+
+
+button {
+  background-color: #E0B99A;
+  border: none;
+  color: #292724;
+  padding: 50px 75px 50px 75px;
+  font-family: Kentish, Times, serif;
+  text-decoration: none;
+  font-size: 100px;
+  text-transform: uppercase;
+  border-radius: 200px;
+}
+
+#background-image {
+  background-image: url(http://www.arielbalter.com/BuzzJoy/img/green_and_roasted_half_and_half.jpg);
+  width: 100%;
+  top: 0;
+  left: 0;
+  height:100%; 
+  opacity: 0.6;
+  position: fixed;
+  background-repeat: repeat-y;
+  background-size: 100% auto;
+  padding: 0;
+  margin: 0;
+  z-index:0;
+}
